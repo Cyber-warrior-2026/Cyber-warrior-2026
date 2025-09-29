@@ -26,7 +26,6 @@ Automated attendance with computer vision using the **KNN algorithm**—perfect 
 - [Student Success Dashboard](https://github.com/Cyber-warrior-2026/Student_success_dashboard)
 - [AI Blog Generator](https://github.com/Cyber-warrior-2026/AI-blog-generator)
 - [Chat Bots](https://github.com/Cyber-warrior-2026/chat-bot), [Chat Bot (Old)](https://github.com/Cyber-warrior-2026/chat-bot-old)
-- [Multi-Factor Authenticator](https://github.com/Cyber-warrior-2026/Multi-Factor-Authenticator)
 
 ---
 
